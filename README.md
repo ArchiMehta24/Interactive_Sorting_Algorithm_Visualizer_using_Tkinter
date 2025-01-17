@@ -3,7 +3,7 @@ A Python Tkinter-based application for visualizing various sorting algorithms.
 
 ## Installation
 ### Cloning the repository:
-Clone the repository using git clone <repository-link>
+Clone the repository using git clone https://github.com/ArchiMehta24/Interactive_Sorting_Algorithm_Visualizer_using_Tkinter.git 
 ### Running the application:
 Run `main.py`
 
